@@ -1,2 +1,6 @@
 venv/
 __pycache__/
+.ipynb_checkpoints/
+model.h5
+twitterNews.csv
+tokenizer.pkl
